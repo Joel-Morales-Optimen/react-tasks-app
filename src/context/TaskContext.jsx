@@ -1,4 +1,4 @@
-function TaskContext() {
+function TaskContext(props) {
   return (
     <>
     <h1>Componente Context</h1>
